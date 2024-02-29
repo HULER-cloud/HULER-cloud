@@ -11,6 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 I can add one line here for test!
 
-This line is written at local and use git to send to remote github repository(learning now).
-
-THANKS TO jb username initial auto lowercase, I have to change github username to fit... And finally totally changed now.
+Building my blog now...
